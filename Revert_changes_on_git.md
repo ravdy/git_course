@@ -6,7 +6,7 @@
           or
    git checkout -- <file_name>
 ```
-Note: even you can remove changes manually. But if we have updated multiple files and don’t know which lines to remove this command really helps 
+`Note: even you can remove changes manually. But if we have updated multiple files and don’t know which lines to remove this command really helps`
 
 ### Revert changes from Staging Area
 ```sh 
