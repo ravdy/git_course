@@ -1,5 +1,5 @@
 
-git init .
+agit init .
 git add <file name> 
 git commit -m "Commit information"
 git status 
@@ -43,3 +43,4 @@ git branch <branch_name> // to create a new branch
 git checkout -b <branch_name> // to create new branch and switch to branch 
 git merge <source_branch> <dest_branch> 
 git branch -d <branch_name> // to delete a branch
+thanks
